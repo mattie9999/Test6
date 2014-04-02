@@ -1,4 +1,4 @@
-
+﻿
 <html>
 
 <head>
@@ -35,7 +35,7 @@ Tel 0-2612-1555 ext 562 - 568</td></tr> !-->
 
 
 <tr>
-<td nowrap align=center width=50% valign=top bgcolor=#000000>
+<td nowrap align=center width=50% valign=top bgcolor=#00000A>
 
 <p><script type="text/javascript" src="http://www.oil-price.net/TABLE2/gen.php?lang=en"></script><noscript></p>
 <p><a href="http://www.oil-price.net/dashboard.php?lang=en#TABLE2">To get the oil price, please enable Javascript.</a></noscript></p>
